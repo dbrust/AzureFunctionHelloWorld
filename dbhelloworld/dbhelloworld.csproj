@@ -34,7 +34,6 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="function.json" />
-    <None Include="packages.config" />
     <None Include="run.csx" />
   </ItemGroup>
   <ItemGroup>
