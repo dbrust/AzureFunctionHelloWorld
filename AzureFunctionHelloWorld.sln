@@ -3,18 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureFunctionHelloWorld", "AzureFunctionHelloWorld", "{94896F4B-3CA0-463E-B8F7-974E50DE1DB2}"
-	ProjectSection(SolutionItems) = preProject
-		function.json = function.json
-		run.csx = run.csx
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dbhelloworld", "dbhelloworld", "{9B126F99-064A-456E-B759-9DCBA9FFF968}"
-	ProjectSection(SolutionItems) = preProject
-		function.json = function.json
-		run.csx = run.csx
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions", "AzureFunctions\AzureFunctions.csproj", "{B2512D0E-D656-42ED-9EAE-B42D38F22C48}"
 EndProject
 Global
