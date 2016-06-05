@@ -34,7 +34,11 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="function.json" />
+    <None Include="packages.config" />
     <None Include="run.csx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Net.Http" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
